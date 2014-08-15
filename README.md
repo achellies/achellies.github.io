@@ -1,4 +1,4 @@
-Square Open Source Portal
+Achellies Open Source Portal
 =========================
 
 A simple, static portal which outlines our open source offerings. Intentionally
