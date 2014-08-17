@@ -131,6 +131,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 .qr_weixin {
   background: url(/assets/public/weixin_qr.jpg) no-repeat;
+  background-position: 0 0px;
   height: 160px;
   width: 160px;
   display: inline-block;
@@ -138,6 +139,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 .qr_qq {
   background: url(/assets/public/qq_qr.jpg) no-repeat;
+  background-position: 0 0px;
   height: 160px;
   width: 160px;
   display: inline-block;
