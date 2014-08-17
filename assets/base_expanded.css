@@ -135,6 +135,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   height: 160px;
   width: 160px;
 }
+.icon-weixin-qrcode:hover img {
+  opacity: 0;
+}
 .icon-qq-qrcode {
   height: 160px;
   width: 160px;
