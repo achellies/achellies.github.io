@@ -131,11 +131,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 .qr_weixin {
   background: url(/assets/public/weixin_qrcode.jpg) no-repeat;
-  background-position: 0 0px;
-  height: 160px;
-  width: 160px;
-  display: inline-block;
-  vertical-align: middle;
 }
 .qr_qq {
   background: url(/assets/public/qq_qrcode.jpg) no-repeat;
@@ -299,7 +294,7 @@ p {
 @viewport {
   width: device-width;
 }
-.logo h1, .icon-twitter, .icon-facebook {
+.logo h1, .icon-twitter, .icon-facebook, .qr_weixin {
   display: inline-block;
   vertical-align: middle;
 }
@@ -315,6 +310,10 @@ p {
   background-position: 0 -42px;
   height: 40px;
   width: 40px;
+}
+.qr_weixin {
+  height: 160px;
+  width: 160px;
 }
 .icon-facebook {
   background-position: 0 -82px;
