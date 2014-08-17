@@ -129,8 +129,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 .profile-icons-sprite, .icon-twitter, .icon-facebook, .reward-punch-card:before, .reward-cash:before, .reward-percent:before, .icon-image-previous, .icon-image-next, .profile-image-dot, .profile-image-dot:hover, .profile-image-dot:focus, .profile-image-dot.current {
   background: url(/assets/sprites/profile-icons-sprite.png) no-repeat;
 }
-.profile-icon-weixin-qrcode, .icon-weixin-qrcode {
-  src: url(/assets/public/profile-icon-weixin-qrcode.png) no-repeat;
+.icon-weixin-qrcode {
+  display: inline-block;
+  vertical-align: middle;
+  height: 160px;
+  width: 160px;
 }
 .qr_qq {
   background: url(/assets/public/profile-icon-qq-qrcode.jpg) no-repeat;
@@ -294,7 +297,7 @@ p {
 @viewport {
   width: device-width;
 }
-.logo h1, .icon-twitter, .icon-facebook, .icon-weixin-qrcode {
+.logo h1, .icon-twitter, .icon-facebook {
   display: inline-block;
   vertical-align: middle;
 }
@@ -310,10 +313,6 @@ p {
   background-position: 0 -42px;
   height: 40px;
   width: 40px;
-}
-.icon-weixin-qrcode {
-  height: 60px;
-  width: 60px;
 }
 .icon-facebook {
   background-position: 0 -82px;
