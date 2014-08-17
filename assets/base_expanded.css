@@ -130,10 +130,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   background: url(/assets/sprites/profile-icons-sprite.png) no-repeat;
 }
 .profile-icon-weixin-qrcode, .icon-weixin-qrcode {
-  background: url(/assets/public/profile-icon-weixin-qrcode.png) no-repeat;
+  src: url(/assets/public/profile-icon-weixin-qrcode.png) no-repeat;
 }
 .qr_qq {
-  background: url(/assets/public/qq_qrcode.jpg) no-repeat;
+  background: url(/assets/public/profile-icon-qq-qrcode.jpg) no-repeat;
   background-position: 0 0px;
   height: 160px;
   width: 160px;
@@ -312,7 +312,6 @@ p {
   width: 40px;
 }
 .icon-weixin-qrcode {
-  background-position: 0 0px;
   height: 160px;
   width: 160px;
 }
