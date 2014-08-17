@@ -135,9 +135,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   height: 160px;
   width: 160px;
 }
-.qr_qq {
-  background: url(/assets/public/profile-icon-qq-qrcode.jpg) no-repeat;
-  background-position: 0 0px;
+.icon-qq-qrcode {
   height: 160px;
   width: 160px;
   display: inline-block;
