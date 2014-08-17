@@ -130,7 +130,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   background: url(/assets/sprites/profile-icons-sprite.png) no-repeat;
 }
 .qr_weixin {
-  background: url(/assets/public/weixin_qr.jpg) no-repeat;
+  background: url(/assets/public/weixin_qrcode.jpg) no-repeat;
   background-position: 0 0px;
   height: 160px;
   width: 160px;
@@ -138,7 +138,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   vertical-align: middle;
 }
 .qr_qq {
-  background: url(/assets/public/qq_qr.jpg) no-repeat;
+  background: url(/assets/public/qq_qrcode.jpg) no-repeat;
   background-position: 0 0px;
   height: 160px;
   width: 160px;
