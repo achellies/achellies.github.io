@@ -129,7 +129,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 .profile-icons-sprite, .icon-twitter, .icon-facebook, .reward-punch-card:before, .reward-cash:before, .reward-percent:before, .icon-image-previous, .icon-image-next, .profile-image-dot, .profile-image-dot:hover, .profile-image-dot:focus, .profile-image-dot.current {
   background: url(/assets/sprites/profile-icons-sprite.png) no-repeat;
 }
-.profile-qr-weixin {
+.weixin_qrcode, .qr-weixin {
   background: url(/assets/public/weixin_qrcode.jpg) no-repeat;
 }
 .qr_qq {
