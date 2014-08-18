@@ -464,7 +464,7 @@ p {
   user-select: none;
 }
 .profile-image:hover ~ .profile-image-dots {
-  opacity: .5;
+  opacity: 1;
   -webkit-transition: opacity 0.3s ease;
   -moz-transition: opacity 0.3s ease;
   -o-transition: opacity 0.3s ease;
