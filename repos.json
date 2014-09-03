@@ -36,8 +36,8 @@
   "custom": [
     {
       "name": "squash",
-      "homepage": "http://squash.io",
-      "html_url": "https://github.com/SquareSquash",
+      "homepage": "https://achellies.github.io",
+      "html_url": "https://achellies.github.io",
       "description": "Squash is an exception reporting and bug analysis tool from Square.",
       "categories": null
     }
